@@ -1,0 +1,38 @@
+sentence1,sentence2,similarity,predicted_similarity,error
+The results showed a significant difference (p<0.05),The results showed no significant difference (p>0.05),0.0,-0.043841142,0.04384114220738411
+This material is aluminum,This material resembles aluminum,0.0,-0.11485043,0.11485043168067932
+What caused the system to fail?,Did the system fail?,0.0,-0.11667808,0.11667808145284653
+Only 5% of patients experienced side effects,Up to 95% of patients experienced side effects,0.0,0.10662087,0.10662087053060532
+The market is climbing a wall of worry,Rock climbers are scaling a worrying wall,0.0,0.01661513,0.016615130007267
+The Morning Star is visible at dawn,The Evening Star is visible at dawn,0.0,0.033141084,0.033141084015369415
+The patient's fever was 101°F,The patient's fever was 104°F,0.0,0.0033299066,0.003329906612634659
+Submit your application by 12/10/2023,Submit your application by 10/12/2023,0.0,0.32779062,0.32779061794281006
+The company projects 3.5% growth,The company projects 35% growth,0.0,0.08532017,0.08532016724348068
+The discount is 8% off the retail price,The discount is 80% off the retail price,0.0,0.41609198,0.4160919785499573
+The data supports the hypothesis,The data contradicts the hypothesis,0.0,-0.19012068,0.19012068212032318
+The evidence confirms the theory,The evidence refutes the theory,0.0,0.116362475,0.11636247485876083
+The train travels northbound,The train travels southbound,0.0,0.59983563,0.5998356342315674
+The building is on the east side,The building is on the west side,0.0,0.44589758,0.44589757919311523
+Increased taxation reduces consumer spending,Increased taxation boosts consumer spending,0.0,-0.14835812,0.14835812151432037
+Lower interest rates stimulate investment,Lower interest rates discourage investment,0.0,0.4553727,0.45537269115448
+"The house sold for under $200,000","The house sold for over $200,000",0.0,0.37324417,0.37324416637420654
+The product costs less than $25,The product costs more than $25,0.0,0.3860476,0.3860476016998291
+Dinner follows lunch,Lunch follows dinner,0.0,0.96050143,0.9605014324188232
+The conclusion comes after the introduction,The introduction comes after the conclusion,0.0,0.95079553,0.9507955312728882
+The new version significantly outperforms the old one,The new version slightly underperforms the old one,0.0,0.7067114,0.7067114114761353
+Sales far exceed the forecast,Sales fall well below the forecast,0.0,0.17736776,0.17736776173114777
+The flight is approximately 2 hours,The flight is approximately 2 days,0.0,0.6049229,0.604922890663147
+The concert lasts 90 minutes,The concert lasts 9 hours,0.0,0.38736203,0.3873620331287384
+The blood test showed elevated glucose levels,The blood test showed depressed glucose levels,0.0,0.054297425,0.05429742485284805
+The condition causes weight gain,The condition causes weight loss,0.0,0.5971396,0.5971395969390869
+The claimant filed the lawsuit,The respondent filed the lawsuit,0.0,0.715898,0.7158979773521423
+The victim reported the crime,The perpetrator reported the crime,0.0,0.81323826,0.813238263130188
+The room is 12 feet wide,The room is 12 meters wide,0.0,0.17219053,0.17219053208827972
+The package weighs 1 kilogram,The package weighs 1 pound,0.0,0.38401118,0.3840111792087555
+Samsung released a new smartphone,I bought a samsung [fruit] at the market,0.0,0.29466483,0.29466482996940613
+I use Microsoft products daily,The microsoft [tool] made the job easier,0.0,0.30709526,0.3070952594280243
+The study showed promising results,The research demonstrated encouraging outcomes,0.0,0.865249,0.86524897813797
+The medication should be taken twice daily,The medicine needs to be consumed two times per day,0.0,0.60437363,0.6043736338615417
+The conference will be held next month,The event is scheduled for the following month,0.0,0.7085926,0.7085925936698914
+The contract expires in December,The agreement terminates at the end of the year,0.0,0.09481485,0.09481485188007355
+The committee rejected the proposal,The board declined to approve the suggestion,0.0,0.7502377,0.7502377033233643

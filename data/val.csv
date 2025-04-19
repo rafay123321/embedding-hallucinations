@@ -1,0 +1,27 @@
+sentence1,sentence2,similarity
+The trustee managed the assets,The beneficiary managed the assets,0.0
+How did they solve the problem?,What method was used to resolve the issue?,1.0
+The fever reached 103°F last night,The fever reached 99°F last night,0.0
+The diagnosis indicates hypothyroidism,The diagnosis indicates hyperthyroidism,0.0
+Only 5% of patients experienced side effects,Up to 95% of patients experienced side effects,0.0
+The item retails for $19.99,The item retails for $199.9,0.0
+The procedure takes about 5 minutes,The procedure takes about 5 hours,0.0
+Venus is visible as the Morning Star,Venus is visible as the Evening Star,0.0
+The candidate narrowly won the election,The candidate decisively lost the election,0.0
+The portfolio yielded 4% returns,The portfolio yielded 40% returns,0.0
+The market is climbing a wall of worry,The financial market is advancing despite investor concerns,1.0
+The sample was heated to 75°C,The specimen's temperature was raised to 75 degrees Celsius,1.0
+Let's not beat around the bush,Let's speak directly about the issue,1.0
+The product costs between $50-$100,The product costs exactly $101,0.0
+Apple released a new smartphone,I packed an apple for lunch,0.0
+Mix ingredients before baking,Bake before mixing ingredients,0.0
+"First boil the water, then add pasta","First add pasta, then boil the water",0.0
+The ball rolled forward,The ball rolled backward,0.0
+This material is aluminum,Aluminum comprises this material,1.0
+The drug is safe for consumption,The drug is unsafe for consumption,0.0
+They're barking up the wrong tree,They're pursuing an incorrect or misguided approach,1.0
+Raising minimum wage increases labor costs,Raising minimum wage decreases labor costs,0.0
+"When supply increases, prices decrease","When supply increases, prices increase",0.0
+The meeting ran significantly shorter than planned,The meeting ran significantly longer than planned,0.0
+Interest rates rose by 0.25%,Interest rates rose by 2.5%,0.0
+The patient shows hypertension,The patient shows hypotension,0.0

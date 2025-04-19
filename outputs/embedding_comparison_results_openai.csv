@@ -1,0 +1,93 @@
+Category,Subcategory,Sentence1,Sentence2,Similarity
+Capitalization,All lowercase,Ritesh visited New York last summer and enjoyed the museums.,ritesh visited new york last summer and enjoyed the museums.,0.9714639782905579
+Capitalization,All uppercase,Ritesh visited New York last summer and enjoyed the museums.,RITESH VISITED NEW YORK LAST SUMMER AND ENJOYED THE MUSEUMS.,0.9611167907714844
+Capitalization,Title case,Ritesh visited New York last summer and enjoyed the museums.,Ritesh Visited New York Last Summer And Enjoyed The Museums.,0.9837836027145386
+Capitalization,Random case,Ritesh visited New York last summer and enjoyed the museums.,Ritesh vIsiTed nEw yOrK lAsT sUmMeR aNd eNjOyEd tHe mUsEuMs.,0.9056189060211182
+Capitalization,Proper noun lowercase,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited new york last summer and enjoyed the museums.,0.9978338479995728
+Capitalization,Proper noun lowercase,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed the museums.,1.0000004768371582
+Whitespace,Extra spaces,Ritesh visited New York last summer and enjoyed the museums.,Ritesh  visited  New  York  last  summer  and  enjoyed  the  museums.,0.984711766242981
+Whitespace,Leading spaces,Ritesh visited New York last summer and enjoyed the museums.,   Ritesh visited New York last summer and enjoyed the museums.,0.991142213344574
+Whitespace,Trailing spaces,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed the museums.   ,0.9907605648040771
+Whitespace,No spaces,Ritesh visited New York last summer and enjoyed the museums.,RiteshvisitedNewYorklastsummerandenjovedthemuseums.,0.9719371795654297
+Whitespace,Newlines,Ritesh visited New York last summer and enjoyed the museums.,"Ritesh visited New York
+last summer and
+enjoyed the museums.",0.9870460629463196
+Whitespace,Tabs,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited	New York	last summer	and enjoyed	the museums.,0.987524688243866
+Negation,Simple negation,The movie was good and I enjoyed it.,The movie was not good and I enjoyed it.,0.9241801500320435
+Negation,Contraction negation,The movie was good and I enjoyed it.,The movie wasn't good and I enjoyed it.,0.9288167953491211
+Negation,Double negation,The movie was good and I enjoyed it.,The movie wasn't bad and I enjoyed it.,0.9491094350814819
+Negation,Multiple negations,The movie was good and I enjoyed it.,The movie was not good and I didn't enjoy it.,0.9183157682418823
+Negation,Partial negation,The movie was good and I enjoyed it.,The movie was good but I didn't enjoy it.,0.944789469242096
+Special Characters,Punctuation removed,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed the museums,0.9900951385498047
+Special Characters,Extra punctuation,Ritesh visited New York last summer and enjoyed the museums.,"Ritesh visited New York, last summer, and enjoyed the museums!!!",0.9842211008071899
+Special Characters,Symbols added,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York (last summer) and enjoyed the museums #vacation,0.982587456703186
+Special Characters,Emojis,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed the museums 🗽🏙️,0.9854493141174316
+Special Characters,ASCII art,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed the museums ¯\_(ツ)_/¯,0.984475314617157
+Word Order,Reversed sentence,Ritesh visited New York last summer and enjoyed the museums.,The museums enjoyed and summer last York New visited Ritesh.,0.9454734325408936
+Word Order,Shuffled words,Ritesh visited New York last summer and enjoyed the museums.,York visited summer Ritesh enjoyed last museums the New and.,0.9420674443244934
+Word Order,Slight reordering,Ritesh visited New York last summer and enjoyed the museums.,"Last summer, Ritesh visited New York and enjoyed the museums.",0.9906903505325317
+Word Order,Active to passive,Ritesh visited New York last summer and enjoyed the museums.,The museums in New York were enjoyed by Ritesh last summer.,0.974511444568634
+Word Order,Clauses reordered,Ritesh visited New York last summer and enjoyed the museums.,Ritesh enjoyed the museums and visited New York last summer.,0.991436243057251
+Synonyms & Paraphrasing,Synonyms,Ritesh visited New York last summer and enjoyed the museums.,Ritesh traveled to New York last summer and liked the galleries.,0.9702048301696777
+Synonyms & Paraphrasing,Light paraphrase,Ritesh visited New York last summer and enjoyed the museums.,Ritesh went to NYC last summer and had fun at the museums.,0.9843564033508301
+Synonyms & Paraphrasing,Moderate paraphrase,Ritesh visited New York last summer and enjoyed the museums.,"Last year during the summer months, Ritesh took a trip to New York where he found the museums enjoyable.",0.9787502884864807
+Synonyms & Paraphrasing,Heavy paraphrase,Ritesh visited New York last summer and enjoyed the museums.,"During his vacation to the Big Apple in the previous year's warm season, Ritesh expressed appreciation for the cultural institutions he visited.",0.943048357963562
+Synonyms & Paraphrasing,"Same meaning, different words",Ritesh visited New York last summer and enjoyed the museums.,Ritesh had a good time at the exhibits when he was in New York during the previous summer.,0.9653374552726746
+Spelling & Typos,Minor typo,Ritesh visited New York last summer and enjoyed the museums.,Ritesh viseted New York last summer and enjoyed the museums.,0.9952647686004639
+Spelling & Typos,Multiple typos,Ritesh visited New York last summer and enjoyed the museums.,Jhon visted Nwe Yrok last summre and enoyded the meusums.,0.8864966034889221
+Spelling & Typos,Phonetic spelling,Ritesh visited New York last summer and enjoyed the museums.,Jon vizited New Yirk last sumer and enjoyd the muzeums.,0.9105848073959351
+Spelling & Typos,Character swaps,Ritesh visited New York last summer and enjoyed the museums.,Ritesh vistied New Yrok alst summer and enjyoed the mueseums.,0.9703205823898315
+Spelling & Typos,Missing letters,Ritesh visited New York last summer and enjoyed the museums.,Jhn vstd Nw Yrk lst smmr and enjyd the msms.,0.799653172492981
+Named Entities,Person name change,Ritesh visited New York last summer and enjoyed the museums.,Mike visited New York last summer and enjoyed the museums.,0.9332637190818787
+Named Entities,Location change,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited Chicago last summer and enjoyed the museums.,0.9679878950119019
+Named Entities,Time change,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last winter and enjoyed the museums.,0.9820636510848999
+Named Entities,Entity abbreviation,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited NYC last summer and enjoyed the museums.,0.9954462051391602
+Named Entities,Entity expansion,Ritesh visited New York last summer and enjoyed the museums.,"Ritesh visited New York City, United States of America last summer and enjoyed the museums.",0.9919478893280029
+Grammar,Tense change,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visits New York last summer and enjoys the museums.,0.9954588413238525
+Grammar,Plurality,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed a museum.,0.9941459894180298
+Grammar,Voice change,Ritesh visited New York last summer and enjoyed the museums.,New York was visited by Ritesh last summer and the museums were enjoyed.,0.9804185628890991
+Grammar,Article change,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited a New York last summer and enjoyed some museums.,0.9950069189071655
+Grammar,Pronoun substitution,Ritesh visited New York last summer and enjoyed the museums.,He visited New York last summer and enjoyed the museums.,0.9514511227607727
+Verbosity,Added fillers,Ritesh visited New York last summer and enjoyed the museums.,"Well, Ritesh basically just visited New York last summer and, you know, enjoyed the museums and stuff.",0.9701202511787415
+Verbosity,Very verbose,Ritesh visited New York last summer and enjoyed the museums.,"If I may say so, our friend Ritesh, whom we all know well, took an exciting journey to the magnificent city of New York during the pleasant summer months of last year, where he subsequently proceeded to experience considerable enjoyment while exploring the numerous fascinating museums available in that location.",0.9494088888168335
+Verbosity,Very concise,Ritesh visited New York last summer and enjoyed the museums.,"Ritesh: NYC trip, summer. Enjoyed museums.",0.9568490386009216
+Verbosity,Repetition,Ritesh visited New York last summer and enjoyed the museums.,"Ritesh visited, visited New York last summer, last summer and enjoyed, really enjoyed the museums.",0.9886754155158997
+Verbosity,Hedging language,Ritesh visited New York last summer and enjoyed the museums.,Ritesh possibly visited New York last summer and perhaps enjoyed the museums to some extent.,0.9822632670402527
+Contractions,Expanded contractions,I don't think they'll be able to attend the party.,I do not think they will be able to attend the party.,0.9903252124786377
+Contractions,Mixed contractions,I don't think they'll be able to attend the party.,I don't think they will be able to attend the party.,0.9985799789428711
+Contractions,Additional contractions,I don't think they'll be able to attend the party.,I don't think they'll've been able t'attend the party.,0.9817907810211182
+Contractions,Formal expansion,I don't think they'll be able to attend the party.,I do not believe they will be capable of attending the gathering.,0.9514853358268738
+Contractions,Informal contractions,I don't think they'll be able to attend the party.,I dunno if they gonna make it to the party.,0.9217873215675354
+Missing Information,Subject omitted,Ritesh visited New York last summer and enjoyed the museums.,Visited New York last summer and enjoyed the museums.,0.9408342242240906
+Missing Information,Object omitted,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last summer and enjoyed.,0.9710439443588257
+Missing Information,Truncated sentence,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited New York last...,0.9212555885314941
+Missing Information,Key detail omitted,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited last summer and enjoyed the museums.,0.9755495190620422
+Missing Information,Partial information,Ritesh visited New York last summer and enjoyed the museums.,Ritesh New York museums summer.,0.9538707733154297
+Language Mixing,Light Spanish,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visitó New York last summer y enjoyed the museums.,0.962425708770752
+Language Mixing,Light French,Ritesh visited New York last summer and enjoyed the museums.,Ritesh a visité New York last summer et a apprécié les museums.,0.9418591856956482
+Language Mixing,Spanglish,Ritesh visited New York last summer and enjoyed the museums.,Ritesh visited Nueva York el verano pasado and enjoyed los museos.,0.9489840269088745
+Language Mixing,Transliteration,Ritesh visited New York last summer and enjoyed the museums.,Dzhon vizited N'yu York proshlogo leta i naslazhdalsya muzeyami.,0.811410665512085
+Language Mixing,Machine translation,Ritesh visited New York last summer and enjoyed the museums.,Ritesh ha visitato New York la scorsa estate e si è divertito nei musei.,0.9220079183578491
+temporal_direction,temporal_direction,She completed her degree before starting the job,She started her job before completing her degree,0.9724590182304382
+quant_threshold,quant_threshold,The company barely exceeded earnings expectations,The company significantly missed earnings expectations,0.9491641521453857
+hypo_fact,hypo_fact,"If the treatment works, symptoms should improve",The treatment works and symptoms have improved,0.948503315448761
+scaler_inversion,scaler_inversion,The meeting ran significantly shorter than planned,The meeting ran significantly longer than planned,0.9572035670280457
+medicine_domain_based,medicine_domain_based,The patient presents with tachycardia,The patient presents with bradycardia,0.9354276657104492
+legal_domain_based,legal_domain_based,Plaintiff bears the burden of proof,Defendant bears the burden of proof,0.9704129099845886
+attribution,attribution,Research supports the efficacy of this treatment,Research questions the efficacy of this treatment,0.9367403984069824
+Numerical,Numerical,The procedure takes about 5 minutes,The procedure takes about 5 hours,0.9567148685455322
+unit_conversion,unit_conversion,The tumor is 2 centimeters in diameter,The tumor is 2 inches in diameter,0.9836008548736572
+miles,miles,Maintain speeds under 30 mph,Maintain speeds under 30 kph,0.9670877456665039
+exact,exact,The product costs between $50-$100,The product costs exactly $101,0.9007679224014282
+domain_significance,domain_significance,The patient's fever was 101°F,The patient's fever was 104°F,0.9717833995819092
+Percentages,Percentages,Only 5% of patients experienced side effects,Up to 95% of patients experienced side effects,0.9402212500572205
+date_time,date_time,Submit your application by 12/10/2023,Submit your application by 10/12/2023,0.9931725263595581
+stats,stats,The results showed a significant difference (p<0.05),The results showed significant difference (p>0.05),0.9941238164901733
+Counterfactual,Counterfactual,"If demand increases, prices will rise","If demand decreases, prices will fall",0.9204224348068237
+Taxonomic,Taxonomic,This component is a type of resistor,This resistor is a type of component,0.9729690551757812
+Procedural,Procedural,Add the eggs after heating the oil,Add the eggs before heating the oil,0.9825880527496338
+Comparison,Comparison,This material is aluminum,This material resembles aluminum,0.9662360548973083
+Metaphorical,Metaphorical,The market is climbing a wall of worry,Rock climbers are scaling a worrying wall,0.8846369385719299
+Presupposition,Presupposition,What caused the system to fail?,Did the system fail?,0.9526679515838623
+Reference,Reference,The car is to the left of the tree,the tree is to the right of the car,0.9580079317092896
+Extensional,Extensional,The Morning Star is visible at dawn,The Evening Star is visible at dawn,0.9741322994232178
