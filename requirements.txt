@@ -1,0 +1,7 @@
+torch
+sentence-transformers
+datasets
+pyyaml
+openai
+python-dotenv
+transformers[torch]
