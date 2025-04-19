@@ -55,6 +55,17 @@ uv pip install -r requirements.txt
 
 ---
 
+## create .env file
+
+Create a `.env` file in the root directory to set environment variables for your project. This is useful for managing sensitive information like API keys and Azure OpenAI related details.
+
+AZURE_OPENAI_ENDPOINT=
+AZURE_OPENAI_API_KEY=
+API_VERSION=2024-10-21
+AZURE_DEPLOYMENT=
+MODEL_NAME=
+TEMPERATURE=0.0
+
 ## 🚀 Usage
 
 ### 1. Fine-Tune Embedding Models
